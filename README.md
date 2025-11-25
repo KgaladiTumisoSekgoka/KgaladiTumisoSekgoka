@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tumi</h1>
 <h3 align="center">Passionate Developer building cool things with C#, .NET & modern web tech</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgaladitumisosekgoka" alt="kgaladitumisosekgoka" /></a> </p>
+</a> </p>
 
 - 🔭 I’m currently working on [Masedimo's Hatchery](https://github.com/KgaladiTumisoSekgoka/MasedimosHatchery)
 
