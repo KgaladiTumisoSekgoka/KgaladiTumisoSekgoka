@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tumi</h1>
 <h3 align="center">Passionate Developer building cool things with C#, .NET & modern web tech</h3>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJxeDV6bGp3aG45OXhza2d5bjYzOW9kbjgzdWNvZmIybWE2MDQ5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bn5ATwEYFxez6ReQCh/giphy.gif" alt="banner" />
+</p>
 
 ---
 
