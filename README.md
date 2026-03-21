@@ -6,7 +6,7 @@
 
 ---
 
-- 🔭 I’m currently working on **[Mayfield]([(https://github.com/KgaladiTumisoSekgoka/Fullstack-Mayfield)])**
+- 🔭 I’m currently working on **[Mayfield](https://github.com/KgaladiTumisoSekgoka/Fullstack-Mayfield)**
 
 - 🌱 I’m currently learning  
   **Microservices with .NET**,  
